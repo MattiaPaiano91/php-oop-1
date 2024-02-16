@@ -28,6 +28,7 @@
     <footer>
         footer
     </footer>
+    <script type="text/javascript" href="./scripts.js" ></script>
 </body>
 
 </html>
